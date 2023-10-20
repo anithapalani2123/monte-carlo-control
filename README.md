@@ -169,16 +169,20 @@ results(env, optimal_pi, goal_state=goal_state)
 ## OUTPUT:
 
 ### Optimal Value Function:
-![image](https://github.com/Aashima02/monte-carlo-control/assets/93427086/dd56d8c7-7471-4612-9039-9ca6969cdebc)
+![image](https://github.com/anithapalani2123/monte-carlo-control/assets/94184990/5f5d5d78-1f6f-44a4-9c5e-23fb998d231e)
+
 
 ### Action Value Function:
-![image](https://github.com/Aashima02/monte-carlo-control/assets/93427086/da14aa9f-0663-4a22-a735-58ed5220d6a9)
+![image](https://github.com/anithapalani2123/monte-carlo-control/assets/94184990/7a6e66ec-d92a-4652-ac32-71276cc8236c)
+
 
 ### State Value Function:
-![image](https://github.com/Aashima02/monte-carlo-control/assets/93427086/89c6a600-3cba-45d9-8d43-2c50ac5a0ba3)
+![image](https://github.com/anithapalani2123/monte-carlo-control/assets/94184990/6792c265-7e89-4835-beb4-e1d5e0527d01)
+
 
 ### Success Rate for Optimal Policy:
-![image](https://github.com/Aashima02/monte-carlo-control/assets/93427086/cdf40391-cf85-41f9-8325-db96a63c7ef1)
+![image](https://github.com/anithapalani2123/monte-carlo-control/assets/94184990/5c9607c8-f4e7-4c80-b051-18ade005a348)
+
 
 ## RESULT:
 
