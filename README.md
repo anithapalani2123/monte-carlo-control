@@ -63,7 +63,7 @@ The agent receives a reward of 1 for reaching the goal state, and a reward of 0 
   * axis: The axis along which to find the maximum value.
 
 ## MONTE CARLO CONTROL FUNCTION
-python
+```python
 import numpy as np
 from tqdm import tqdm
 
@@ -113,9 +113,9 @@ def mc_control(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio
 
     return Q, V, pi
 
-
+```
 ## PROGRAM TO EVALUATE THE POLICY:
-python
+```python
 import random
 import numpy as np
 
@@ -165,7 +165,7 @@ def results(env, optimal_pi, goal_state, seed=123):
 goal_state = 15
 results(env, optimal_pi, goal_state=goal_state)
 
-
+```
 ## OUTPUT:
 
 ### Optimal Value Function:
